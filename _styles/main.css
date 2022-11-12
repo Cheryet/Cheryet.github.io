@@ -1,0 +1,81 @@
+
+/* ABOUT BOX AREA */
+
+.about-box {
+  padding: 50px 25px;
+  margin-top: 100px;
+  background-color:#fff3e9;
+}
+
+.header-title {
+  line-height: 1.5;
+}
+
+.header-text {
+  line-height: 2;
+  letter-spacing: 0.05rem;
+  margin-bottom: 3rem;
+  
+}
+
+.hero-text-box {
+  margin-top: 2rem;
+  padding: 40px 25px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.hero-text-one {
+  margin-bottom: 3rem;
+}
+
+.hero-text-two {
+  margin-bottom: 3rem;
+}
+
+.btn {
+  font-family: 'Almarai', sans-serif;
+  font-weight: bold;
+}
+
+
+.btn-one {
+  margin-bottom: 1.2rem;
+}
+
+/* SHOW CASE PHTO BOX */
+
+.showcase-photo-box {
+  height: 120vh;
+  background-color: #2e2e2e;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+
+}
+
+.demo-photo {
+  /* This section to be deleted after mock up */
+  min-width: 350px;
+  width: auto;
+  height: 250px;
+  border: 2px solid black;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  
+
+}
+
+.demo-photo p {
+  text-align: center;
+  
+}
+
+.see-more-btn {
+  color: white;
+  width: 75%;
+}
